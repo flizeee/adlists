@@ -1,0 +1,23 @@
+[Adblock Plus]
+! Title: LINE Ad Lists
+! Version: 2025.1217.1
+! Expires: 1 hour
+! Homepage: https://github.com/flizeee/adlists
+! ----------------------------------------------------------------------
+
+||a.line.me^
+||ad.line-scdn.net^
+||api.today.line.me^
+||crs-event.line.me^
+||jp-col-tcp.nelo.linecorp.com^
+||legy.line-apps.com^
+||legy.line-apps.com.akadns.net^
+||legy-jp-addr-ds.line-apps.com^
+||linecrs.line-scdn.net^
+||sch.line.me^
+||today.line.me^
+||today-obs.line-scdn.net^
+||uts-front.line-apps.com^
+||voom-assets.line-scdn.net^
+||voom-obs.line-scdn.net^
+||w.line.me^
