@@ -1,0 +1,21 @@
+! LINE Ad Lists
+! Title: LINE Ad Lists
+! URL: <https://github.com/flizeee/adlists>
+! Version: 2025.1217.1
+! --------------------------------------------------
+0.0.0.0 a.line.me
+0.0.0.0 ad.line-scdn.net
+0.0.0.0 api.today.line.me
+0.0.0.0 crs-event.line.me
+0.0.0.0 jp-col-tcp.nelo.linecorp.com
+0.0.0.0 legy.line-apps.com
+0.0.0.0 legy.line-apps.com.akadns.net
+0.0.0.0 legy-jp-addr-ds.line-apps.com
+0.0.0.0 linecrs.line-scdn.net
+0.0.0.0 sch.line.me
+0.0.0.0 today.line.me
+0.0.0.0 today-obs.line-scdn.net
+0.0.0.0 uts-front.line-apps.com
+0.0.0.0 voom-assets.line-scdn.net
+0.0.0.0 voom-obs.line-scdn.net
+0.0.0.0 w.line.me
